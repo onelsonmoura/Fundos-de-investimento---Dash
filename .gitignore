@@ -1,0 +1,4 @@
+.env
+src/data/cad_fi/
+src/data/eventual_fi/
+src/data/inf_diario_fi/
